@@ -42,6 +42,8 @@
   </div>
 </p>
 
+[![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Midnightific&hide=assembly&exclude_repo=dotfiles,warehouse-manager-po&layout=compact&langs_count=10&bg_color=-45,30bdbd,4c00fc&title_color=fff&text_color=fff&icon_color=fff&cache_seconds=1800&langs_count=10&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)][github]
+
 <!---
 Midnightific/Midnightific is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
