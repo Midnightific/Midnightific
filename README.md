@@ -9,8 +9,8 @@
 <h2 align="left">A little bit about me<img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px"></h2>
 
 - 👋 Hi, I’m @Midnightific
-- 👀 I’m interested in making a better work environment for all developers and helping the community.
-- 🌱 I’m currently learning C# & C++
+- 👀 I’m interested in making a better work environment for all developers and helping new developers with their journey!
+- 🌱 I’m currently learning C# & C++ along with a few other things here and there.
 - 🤝 I’m looking to collaborate on game frameworks, modules and new, upcoming projects! (I even work for free sometimes)
 - 📫 How to reach me rbxmidnightific@gmail.com | Midnightific#4437
 - 🤚 Got a question to ask? My door is always open.
