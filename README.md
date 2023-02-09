@@ -30,6 +30,8 @@
       </a>
 </div>
 
+<a href="https://discord.com/users/723030262946070528"> <img width="40%" src="https://lanyard.cnrad.dev/api/318423524807016448?bg=5865F2" align="right" /> </a>
+
 <h2 align="center">Github Stats</h2>
 <p align=center>
   <div align=center>
