@@ -30,12 +30,6 @@
       </a>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/723030262946070528">
-        <img src="https://lanyard-profile-readme.vercel.app/api/723030262946070528" alt="Midnightific#4437">
-    </a>
-</div>
-
 <h2 align="center">Github Stats</h2>
 <p align=center>
   <div align=center>
