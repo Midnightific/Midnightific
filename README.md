@@ -10,4 +10,7 @@ I'm a self taught developer from Australia 🇦🇺
 
 - ❤️ I love writing luau and discovering new things about the language
 
-- 💬 Ask me about anything [here](https://discordapp.com/users/723030262946070528/)
+- 📫 You can reach me at `rbxmidnightific@gmail.com` or alternatively, `@midnightific` on Discord
+
+![Midnightific's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=midnightific&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=midnightific&layout=compact&exclude_repo=tree-sitter-luau,github-readme-stats&hide=css,javascript)
