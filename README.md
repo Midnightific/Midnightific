@@ -4,7 +4,7 @@ I'm [**Midnightific**](https://midnightific.org), a systems engineer based in Au
 I'm currently working on Pathos-III with [@ungms](https://github.com/ungms) but I'm still open to other positions so if you've got an idea, let me know!  
 
 About me:
-* I don't like coffee - I exclusively drink tea
+* I love cooking for others - I'd like to do some private cheffing one day!
 * I play tennis in my free time
 * I have way too many interests
 
